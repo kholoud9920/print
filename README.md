@@ -8,3 +8,4 @@ Returns the number of characters in the output string on success, -1 otherwise
 
 Call it this way: _printf("format string", arguments...) where format string can
 contain conversion specifiers and flags, along with regular characters
+k
